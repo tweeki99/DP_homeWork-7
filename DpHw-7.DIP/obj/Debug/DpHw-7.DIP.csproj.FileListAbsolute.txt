@@ -1,0 +1,6 @@
+C:\Users\Shipa\source\repos\DpHw-7.ISP\DpHw-7.DIP\bin\Debug\DpHw-7.DIP.exe.config
+C:\Users\Shipa\source\repos\DpHw-7.ISP\DpHw-7.DIP\bin\Debug\DpHw-7.DIP.exe
+C:\Users\Shipa\source\repos\DpHw-7.ISP\DpHw-7.DIP\bin\Debug\DpHw-7.DIP.pdb
+C:\Users\Shipa\source\repos\DpHw-7.ISP\DpHw-7.DIP\obj\Debug\DpHw-7.DIP.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-7.ISP\DpHw-7.DIP\obj\Debug\DpHw-7.DIP.exe
+C:\Users\Shipa\source\repos\DpHw-7.ISP\DpHw-7.DIP\obj\Debug\DpHw-7.DIP.pdb
